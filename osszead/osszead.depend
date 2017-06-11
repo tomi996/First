@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1457787564 source:e:\codeblocks\osszead\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1457787990 source:e:\codeblocks\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
